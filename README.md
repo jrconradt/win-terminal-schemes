@@ -1,2 +1,3 @@
-# win-terminal-schemes
-Windows Terminal Color Schemes
+# Windows Terminal Color Schmes
+
+These are primarily intended to be used as a high-contrast alternative to standard schemes, while using inverted OS colors. 
