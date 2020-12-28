@@ -1,0 +1,25 @@
+"theme": "light",
+
+{
+            "name": "Iceberg",
+            "cursorColor": "#F8F8F2",
+            "selectionBackground": "#44475A",
+            "background": "#a5a8b6",
+            "foreground": "#ffffdb",
+            "black": "#a9a9ac",
+            "blue": "#ffee00",
+            "cyan": "#e44040",
+            "green": "#d850fa",
+            "purple": "#16a81e",
+            "red": "#43dddd",
+            "white": "#53534d",
+            "yellow": "#4b48f7",
+            "brightBlack": "#fac9c9",
+            "brightBlue": "#ffd000",
+            "brightCyan": "#ff0000",
+            "brightGreen": "#d400ff",
+            "brightPurple": "#4a990a",
+            "brightRed": "#00f7ff",
+            "brightWhite": "#000000",
+            "brightYellow": "#0011fa"
+        }
